@@ -1,0 +1,44 @@
+	body{ color:white; background-color:black}
+	h1{ text-align:center; background-color:red !important}
+	h3{text-align:center}
+	img { display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+	border: 5px solid red;
+	}
+	.backcolor{background-color:purple}
+	.tableheader{ font-weight:bold; font-style:italic; background-color:red}
+	table{ border:1; cellpadding:50 ;
+	width:70%; 
+	margin-left:15%; 
+	margin-right:15%;
+	}
+	#b {text-align:center; background-color:black !important }
+		
+	.footer {font-size:12px;}
+		
+		#toc_container {
+    background-color:red ;
+    border: 5px solid #aaa;
+    display: table;
+    font-size: 40px;
+    margin-bottom: 1em;
+    padding: 20px;
+    width:70%; 
+	margin-left:15%; 
+	margin-right:15%;
+	}
+
+	.toc_title {
+    font-weight: 700;
+    text-align: center;
+	}
+
+	#toc_container li, #toc_container ul, #toc_container ul li{
+    list-style: outside none none !important;
+	}
+	
+	#c {color:red}
+	
+	
